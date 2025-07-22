@@ -2,8 +2,6 @@
 <h3 >Hi 👋, I'm Obaid Ahmed</h3>
 I am a Full Stack Software Engineer with a passion to learn and create new things.<br>
 <br>
-Check out my portfolio to see my resume / skills / projects: https://obaidahmed-portfolio.netlify.app/
-<br><br>
 <p> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="logo" width="20">  Linkedin: https://www.linkedin.com/in/obaidahmed13/ </p>
 
 # <h3>Skills</h3>
